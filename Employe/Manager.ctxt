@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Manager
+comment0.text=\r\n\ Cette\ classe\ d\u00E9crit\ un\ manager.\r\n\r\n\ @author\ Madi\ Mnemoi\r\n\ @version\ 05/12/2019\r\n
+comment1.params=nom\ revenu
+comment1.target=Manager(java.lang.String,\ double)
+comment1.text=\r\n\ Constructeur\ d'objets\ de\ classe\ Manager\r\n
+comment2.params=nom\ revenu\ projets
+comment2.target=Manager(java.lang.String,\ double,\ int)
+comment2.text=\r\n\ Constructeur\ d'objets\ de\ classe\ Manager\r\n
+comment3.params=
+comment3.target=void\ setBonus()
+comment3.text=\r\n\ actualise\ le\ bonus\ d'un\ manager\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ affiche\ les\ caract\u00E9ristiques\ d'un\ vendeur\r\n
+numComments=5

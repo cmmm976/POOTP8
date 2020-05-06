@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Vendeur
+comment0.text=\r\n\ Cette\ classe\ d\u00E9crit\ un\ vendeur.\r\n\r\n\ @author\ Charles-Meldhine\ Madi\ Mnemoi\r\n\ @version\ 05/12/2019\r\n
+comment1.params=nom\ revenu\ ventes
+comment1.target=Vendeur(java.lang.String,\ double,\ int)
+comment1.text=\r\n\ Constructeur\ d'objets\ de\ classe\ Vendeur\r\n
+comment2.params=nom\ revenu
+comment2.target=Vendeur(java.lang.String,\ double)
+comment2.text=\r\n\ Autre\ constructeur\ d'objets\ de\ classe\ Vendeur\r\n
+comment3.params=ventes
+comment3.target=void\ setVentes(int)
+comment3.text=\r\n\ actualise\ le\ nombre\ de\ ventes\ d'un\ vendeur\r\n
+comment4.params=
+comment4.target=void\ setBonus()
+comment4.text=\r\n\ actualise\ le\ bonus\ d'un\ vendeur\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ affiche\ les\ caract\u00E9ristiques\ d'un\ vendeur\r\n
+numComments=6
